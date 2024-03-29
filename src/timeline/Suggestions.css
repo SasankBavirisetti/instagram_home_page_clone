@@ -1,0 +1,99 @@
+.suggestions
+{
+    margin-top: 30px;
+    margin-right: 50px;
+    width: 300px;
+}
+
+.suggestions-title
+{
+    color: grey;
+    font-weight: bold;
+}
+.username-left
+{
+    display: flex;
+    align-items: center;
+}
+.username-info
+{
+    display: flex;
+    flex-direction: column;
+}
+.relation
+{
+    color: grey;
+    font-size: 12px;
+}
+.suggestions-username
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.follow-button
+{
+    border: 0;
+    background: 0;
+    color: rgb(73, 73, 144);
+    font-weight: bold;
+}
+.follow-button:hover
+{
+    cursor: pointer;
+    color: white;
+}
+.username
+{
+    font-size: 14px;
+    font-weight: 600;
+}
+.avatar
+{
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.suggestion-my-account
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.my-details
+{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    align-items: center;
+}
+.my-info
+{
+    display: flex;
+    flex-direction: column;
+}
+.my-image
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.insta-username
+{
+    color: grey;
+    font-weight: bold;
+}
+.switch-button
+{
+    border: 0;
+    background: 0;
+    color: rgb(73, 73, 144);
+    font-weight: bold;
+}
+.switch-button:hover
+{
+    cursor: pointer;
+    color: white;
+}

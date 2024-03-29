@@ -1,0 +1,33 @@
+
+.status
+{
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+    /* justify-content: center; */
+    margin-left:37px ;
+    margin-top: 25px;
+
+    
+}
+
+.status-image
+{
+    border-radius: 50%;
+    height: 75px;
+    width:75px;
+    border: 2px solid #99FF66;
+}
+.status-image:hover
+{
+    cursor: pointer;
+}
+.image-container
+{
+    /* background-color: pink; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    row-gap: 10px;
+}
